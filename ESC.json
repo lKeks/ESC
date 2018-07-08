@@ -1,0 +1,642 @@
+[
+  {
+    "Year": "1956",
+    "Country": "Switzerland",
+    "Act": "Lys Assia",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "1957",
+    "Country": "Netherlands",
+    "Act": "Cory Brokken",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "1958",
+    "Country": "France",
+    "Act": "AndrÃ© Claveau",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "1959",
+    "Country": "Netherlands",
+    "Act": "Teddy Scholten",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "1960",
+    "Country": "France",
+    "Act": "Jacqueline Boyer",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "1961",
+    "Country": "Luxembourg",
+    "Act": "Jean-Claude Pascal",
+    "Australia": 0,
+    "France": 1,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "1962",
+    "Country": "France",
+    "Act": "Isabelle Aubret",
+    "Australia": 0,
+    "France": 4,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 1
+  },
+  {
+    "Year": "1963",
+    "Country": "Denmark",
+    "Act": "Grethe and JÃ¸rgen Ingmann",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "1964",
+    "Country": "Italy",
+    "Act": "Gigliola Cinquetti",
+    "Australia": 0,
+    "France": 1,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 2
+  },
+  {
+    "Year": "1965",
+    "Country": "Luxembourg",
+    "Act": "France Gall",
+    "Australia": 1,
+    "France": 35,
+    "Germany": 4,
+    "UK": 1,
+    "Global": 7
+  },
+  {
+    "Year": "1966",
+    "Country": "Austria",
+    "Act": "Udo JÃ¼rgens",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 47,
+    "UK": 0,
+    "Global": 7
+  },
+  {
+    "Year": "1967",
+    "Country": "United Kingdom",
+    "Act": "Sandie Shaw",
+    "Australia": 2,
+    "France": 0,
+    "Germany": 0,
+    "UK": 7,
+    "Global": 1
+  },
+  {
+    "Year": "1968",
+    "Country": "Spain",
+    "Act": "Massiel",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 2
+  },
+  {
+    "Year": "1969",
+    "Country": "United Kingdom",
+    "Act": "Lulu",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 13,
+    "Global": 2
+  },
+  {
+    "Year": "1969",
+    "Country": "France",
+    "Act": "Frida Boccara",
+    "Australia": 4,
+    "France": 1,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "1969",
+    "Country": "Netherlands",
+    "Act": "Lenny Kuhr",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "1969",
+    "Country": "Spain",
+    "Act": "SalomÃ©",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "1970",
+    "Country": "Ireland",
+    "Act": "Dana",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 1,
+    "Global": 0
+  },
+  {
+    "Year": "1971",
+    "Country": "Monaco",
+    "Act": "SÃ©verine",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 1,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "1972",
+    "Country": "Luxembourg",
+    "Act": "Vicky Leandros",
+    "Australia": 0,
+    "France": 1,
+    "Germany": 10,
+    "UK": 1,
+    "Global": 2
+  },
+  {
+    "Year": "1973",
+    "Country": "Luxembourg",
+    "Act": "Anne-Marie David",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "1974",
+    "Country": "Sweden",
+    "Act": "ABBA",
+    "Australia": 100,
+    "France": 18,
+    "Germany": 50,
+    "UK": 100,
+    "Global": 61
+  },
+  {
+    "Year": "1975",
+    "Country": "Netherlands",
+    "Act": "Teach-In",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "1976",
+    "Country": "United Kingdom",
+    "Act": "Brotherhood of Man",
+    "Australia": 1,
+    "France": 0,
+    "Germany": 0,
+    "UK": 4,
+    "Global": 0
+  },
+  {
+    "Year": "1977",
+    "Country": "France",
+    "Act": "Marie Myriam",
+    "Australia": 0,
+    "France": 2,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "1978",
+    "Country": "Israel",
+    "Act": "Izhar Cohen and the Alphabeta",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "1979",
+    "Country": "Israel",
+    "Act": "Gali Atari and Milk and Honey",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "1980 & 1987",
+    "Country": "Ireland",
+    "Act": "Johnny Logan",
+    "Australia": 1,
+    "France": 0,
+    "Germany": 2,
+    "UK": 2,
+    "Global": 1
+  },
+  {
+    "Year": "1981",
+    "Country": "United Kingdom",
+    "Act": "Bucks Fizz",
+    "Australia": 3,
+    "France": 0,
+    "Germany": 0,
+    "UK": 14,
+    "Global": 1
+  },
+  {
+    "Year": "1982",
+    "Country": "Germany",
+    "Act": "Nicole",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 9,
+    "UK": 0,
+    "Global": 1
+  },
+  {
+    "Year": "1983",
+    "Country": "Luxembourg",
+    "Act": "Corinne HermÃ¨s",
+    "Australia": 0,
+    "France": 1,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "1984",
+    "Country": "Sweden",
+    "Act": "Herreys",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "1985",
+    "Country": "Norway",
+    "Act": "Bobbysocks!",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "1986",
+    "Country": "Belgium",
+    "Act": "Sandra Kim",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "1988",
+    "Country": "Switzerland",
+    "Act": "CÃ©line Dion",
+    "Australia": 86,
+    "France": 100,
+    "Germany": 23,
+    "UK": 86,
+    "Global": 100
+  },
+  {
+    "Year": "1989",
+    "Country": "Yugoslavia",
+    "Act": "Riva",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "1990",
+    "Country": "Italy",
+    "Act": "Toto Cutugno",
+    "Australia": 1,
+    "France": 1,
+    "Germany": 1,
+    "UK": 1,
+    "Global": 3
+  },
+  {
+    "Year": "1991",
+    "Country": "Sweden",
+    "Act": "Carola",
+    "Australia": 1,
+    "France": 0,
+    "Germany": 0,
+    "UK": 1,
+    "Global": 3
+  },
+  {
+    "Year": "1992",
+    "Country": "Ireland",
+    "Act": "Linda Martin",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 1,
+    "Global": 0
+  },
+  {
+    "Year": "1993",
+    "Country": "Ireland",
+    "Act": "Niamh Kavanagh",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "1994",
+    "Country": "Ireland",
+    "Act": "Paul Harrington and Charlie McGettigan",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "1995",
+    "Country": "Norway",
+    "Act": "Secret Garden",
+    "Australia": 2,
+    "France": 0,
+    "Germany": 2,
+    "UK": 1,
+    "Global": 3
+  },
+  {
+    "Year": "1996",
+    "Country": "Ireland",
+    "Act": "Eimear Quinn",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "1997",
+    "Country": "United Kingdom",
+    "Act": "Katrina and the Waves",
+    "Australia": 1,
+    "France": 0,
+    "Germany": 0,
+    "UK": 3,
+    "Global": 1
+  },
+  {
+    "Year": "1998",
+    "Country": "Israel",
+    "Act": "Dana International",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 1,
+    "Global": 1
+  },
+  {
+    "Year": "1999",
+    "Country": "Sweden",
+    "Act": "Charlotte Nilsson",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 4
+  },
+  {
+    "Year": "2000",
+    "Country": "Denmark",
+    "Act": "Olsen Brothers",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 1,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "2001",
+    "Country": "Estonia",
+    "Act": "Tanel Padar, Dave Benton and 2XL",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "2002",
+    "Country": "Latvia",
+    "Act": "Marie N",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "2003",
+    "Country": "Turkey",
+    "Act": "Sertab Erener",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 2,
+    "UK": 1,
+    "Global": 12
+  },
+  {
+    "Year": "2004",
+    "Country": "Ukraine",
+    "Act": "Ruslana",
+    "Australia": 1,
+    "France": 0,
+    "Germany": 1,
+    "UK": 1,
+    "Global": 4
+  },
+  {
+    "Year": "2005",
+    "Country": "Greece",
+    "Act": "Helena Paparizou",
+    "Australia": 1,
+    "France": 0,
+    "Germany": 1,
+    "UK": 1,
+    "Global": 3
+  },
+  {
+    "Year": "2006",
+    "Country": "Finland",
+    "Act": "Lordi",
+    "Australia": 4,
+    "France": 4,
+    "Germany": 6,
+    "UK": 6,
+    "Global": 7
+  },
+  {
+    "Year": "2007",
+    "Country": "Serbia",
+    "Act": "Marija Å erifoviÄ‡",
+    "Australia": 1,
+    "France": 0,
+    "Germany": 1,
+    "UK": 0,
+    "Global": 2
+  },
+  {
+    "Year": "2008",
+    "Country": "Russia",
+    "Act": "Dima Bilan",
+    "Australia": 1,
+    "France": 0,
+    "Germany": 4,
+    "UK": 2,
+    "Global": 13
+  },
+  {
+    "Year": "2009",
+    "Country": "Norway",
+    "Act": "Alexander Rybak",
+    "Australia": 2,
+    "France": 1,
+    "Germany": 4,
+    "UK": 3,
+    "Global": 7
+  },
+  {
+    "Year": "2010",
+    "Country": "Germany",
+    "Act": "Lena",
+    "Australia": 2,
+    "France": 1,
+    "Germany": 100,
+    "UK": 4,
+    "Global": 17
+  },
+  {
+    "Year": "2011",
+    "Country": "Azerbaijan",
+    "Act": "Ell & Nikki",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 0,
+    "UK": 0,
+    "Global": 0
+  },
+  {
+    "Year": "2012",
+    "Country": "Sweden",
+    "Act": "Loreen",
+    "Australia": 3,
+    "France": 1,
+    "Germany": 7,
+    "UK": 4,
+    "Global": 6
+  },
+  {
+    "Year": "2013",
+    "Country": "Denmark",
+    "Act": "Emmelie de Forest",
+    "Australia": 1,
+    "France": 0,
+    "Germany": 2,
+    "UK": 1,
+    "Global": 1
+  },
+  {
+    "Year": "2014",
+    "Country": "Austria",
+    "Act": "Conchita Wurst",
+    "Australia": 13,
+    "France": 6,
+    "Germany": 20,
+    "UK": 15,
+    "Global": 16
+  },
+  {
+    "Year": "2015",
+    "Country": "Sweden",
+    "Act": "MÃ¥ns ZelmerlÃ¶w",
+    "Australia": 2,
+    "France": 1,
+    "Germany": 2,
+    "UK": 2,
+    "Global": 3
+  },
+  {
+    "Year": "2016",
+    "Country": "Ukraine",
+    "Act": "Jamala",
+    "Australia": 2,
+    "France": 0,
+    "Germany": 1,
+    "UK": 1,
+    "Global": 3
+  },
+  {
+    "Year": "2017",
+    "Country": "Portugal",
+    "Act": "Salvador Sobral",
+    "Australia": 0,
+    "France": 0,
+    "Germany": 1,
+    "UK": 1,
+    "Global": 2
+  }
+]
